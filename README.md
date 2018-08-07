@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # webpack-graphql-server
 
 [![npm version](https://badge.fury.io/js/webpack-graphql-server.svg)](https://badge.fury.io/js/webpack-graphql-server) [![Build Status](https://travis-ci.org/DxCx/webpack-graphql-server.svg?branch=master)](https://travis-ci.org/DxCx/webpack-graphql-server) [![Coverage Status](https://coveralls.io/repos/github/DxCx/webpack-graphql-server/badge.svg?branch=master)](https://coveralls.io/github/DxCx/webpack-graphql-server?branch=master)
@@ -120,3 +121,6 @@ i.e. not persisted and will be gone once you shut down the server.
 Sample clients for this server:
 ----
 * [ionic2](https://github.com/philipbrack/ionic2-apollo-simple)
+=======
+# iDule-server
+>>>>>>> 453f13c1adf0eb719f5161bd753c6253e2aaf935
